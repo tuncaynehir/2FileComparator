@@ -19,5 +19,5 @@ Finally, the sorted results are written to an output file, producing an alphabet
 - Produces an alphabetized list of shared words
 
 ## How to Run?
-g++ -std=c++11 filewordcomparator.cpp -o comparator
+g++ -std=c++11 wordcomparator.cpp -o comparator
 ./comparator
