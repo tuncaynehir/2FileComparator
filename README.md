@@ -20,4 +20,5 @@ Finally, the sorted results are written to an output file, producing an alphabet
 
 ## How to Run?
 g++ -std=c++11 wordcomparator.cpp -o comparator
+
 ./comparator
